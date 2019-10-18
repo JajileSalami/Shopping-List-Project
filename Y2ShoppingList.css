@@ -1,0 +1,56 @@
+
+* {
+  margin:0;
+  background-color:tomato;
+  font-family:"Comic Sans MS", cursive, sans-serif
+;
+}
+
+#buy {
+  float:left;
+  color:white;
+  position:relative;
+  top:10vh;
+  left:10vh;
+}
+
+#remove {
+  float:right;
+  color:white;
+  position:relative;
+  top:10vh;
+  right:10vh;
+}
+
+#items {
+  text-align:center;
+  position:relative;
+  position:absolute;
+  left:40vw;
+  color:white;
+}
+
+#alert {
+  text-align:center;
+  position:relative;
+  position:absolute;
+  left:40vw;
+  top:30vh;
+  color:white;
+}
+
+#userOption {
+  color:white;
+}
+
+#buyButton {
+  color:white;
+}
+
+#userRemove {
+  color:white;
+}
+
+#removeButton {
+  color:white;
+}
